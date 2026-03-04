@@ -17,7 +17,6 @@ public class VariedadCafe {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
     private String nombre;
     private String origen;
     private Integer altitudOptima;

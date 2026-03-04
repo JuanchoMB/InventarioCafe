@@ -1,0 +1,26 @@
+{
+  "info": {
+    "_postman_id": "8ca85a4c-dfcf-457f-ae15-b837435133c2",
+    "name": "inventarioCafe",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "48655740"
+  },
+  "item": [
+    {
+      "name": "crearCafe",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "obtenerTodos",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
